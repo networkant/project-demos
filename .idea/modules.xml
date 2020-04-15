@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/annotation-demo/annotation-demo.iml" filepath="$PROJECT_DIR$/annotation-demo/annotation-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/processor/processor.iml" filepath="$PROJECT_DIR$/processor/processor.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/project-demos.iml" filepath="$PROJECT_DIR$/.idea/project-demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-demo/springboot-mybatis-demo.iml" filepath="$PROJECT_DIR$/springboot-mybatis-demo/springboot-mybatis-demo.iml" />
     </modules>
   </component>
 </project>
